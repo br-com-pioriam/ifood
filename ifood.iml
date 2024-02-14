@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplicativo - Conciliação de Cartões/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplicativo - Conciliação de Cartões/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Aplicativo - Conciliação de Cartões/build" />
+      <excludeFolder url="file://$MODULE_DIR$/baixa_omie_id/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/baixa_omie_id/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/baixa_omie_id/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/food_delivery_sandwich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/food_delivery_sandwich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/food_delivery_sandwich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gastar_quantos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/gastar_quantos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gastar_quantos/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

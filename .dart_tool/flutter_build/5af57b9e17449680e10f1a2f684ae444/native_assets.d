@@ -1,0 +1,1 @@
+ /Users/marcelosantos/Desenvolvimento/Projetos/ifood/.dart_tool/flutter_build/5af57b9e17449680e10f1a2f684ae444/native_assets.yaml: 
